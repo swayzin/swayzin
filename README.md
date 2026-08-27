@@ -1,5 +1,5 @@
 
-- 👀 I’m don't know what i doing here
+- 👀 CS50x student trying to lear something
 
 
 <!---
